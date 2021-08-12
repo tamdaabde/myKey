@@ -1,0 +1,8 @@
+$mainColor : #f00;
+
+h1{
+    width: 500px;
+    border: 3px solid $mainColor;
+    margin: 100px auto;
+    padding: 20px;
+}
